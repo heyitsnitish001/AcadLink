@@ -7,7 +7,7 @@
 
 ## Try it out
 
-https://acadlink.netlify.app/
+<!--https://acadlink.netlify.app/-->
 
 ## What it does?
 
@@ -30,7 +30,7 @@ https://acadlink.netlify.app/
 - **Anuj gangwar**     : IILM College Of Engineering And Technology
 - **Prateek singhal**      : IILM College Of Engineering And Technology
 
- ### Contributors :
+  <!--### Contributors :
 <!-- readme: contributors -start -->
 <table>
 <tr>
@@ -40,7 +40,7 @@ https://acadlink.netlify.app/
             <br />
             <sub><b>Nitish kumar</b></sub>
         </a>
- <!--  </td>
+  </td>
     <td align="center">
         <a href="https://github.com/rituparna-ui">
             <img src="https://avatars.githubusercontent.com/u/54203587?v=4" width="100;" alt="rituparna-ui"/>
