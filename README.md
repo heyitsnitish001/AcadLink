@@ -40,7 +40,7 @@ https://acadlink.netlify.app/
             <br />
             <sub><b>Nitish kumar</b></sub>
         </a>
-    </td>
+ <!--  </td>
     <td align="center">
         <a href="https://github.com/rituparna-ui">
             <img src="https://avatars.githubusercontent.com/u/54203587?v=4" width="100;" alt="rituparna-ui"/>
@@ -55,7 +55,7 @@ https://acadlink.netlify.app/
             <sub><b>Prateek Kumar Sinha</b></sub>
         </a>
     </td></tr>
-</table>
+</table>-->
 <!-- readme: contributors -end -->
 
 ## Some Screenshots from the App
