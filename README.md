@@ -30,9 +30,9 @@
 - **Anuj gangwar**     : IILM College Of Engineering And Technology
 - **Prateek singhal**      : IILM College Of Engineering And Technology
 
-  <!--### Contributors :
+  ### Contributors :
 <!-- readme: contributors -start -->
-<table>
+<!-- <table>
 <tr>
     <td align="center">
         <a href="https://github.com/starnik007">
