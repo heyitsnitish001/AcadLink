@@ -15,7 +15,7 @@
 
 * `This way, the app not only creates new relationship between students but also allows others to see what they are doing and how they did it and take help from it.`
 
-* `Users can create accounts, join different classrooms, earn referral points. There is filter in app to filter out different Universities students according to their classes. Every student in a class can post their achievements, work experience, project, etc to share with other people.`
+* `Users can create accounts, join different classrooms. There is filter in app to filter out different Universities students according to their classes. Every student in a class can post their achievements, work experience, project, etc to share with other people.`
 
 ## How we have done it :
 
