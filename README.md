@@ -30,33 +30,6 @@
 - **Anuj gangwar**     : IILM College Of Engineering And Technology
 - **Prateek singhal**      : IILM College Of Engineering And Technology
 
-  ### Contributors :
-<!-- readme: contributors -start -->
-<!-- <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/starnik007">
-            <img src="https://avatars.githubusercontent.com/u/56907437?v=4" width="100;" alt="Priyanka7011"/>
-            <br />
-            <sub><b>Nitish kumar</b></sub>
-        </a>
-  </td>
-    <td align="center">
-        <a href="https://github.com/rituparna-ui">
-            <img src="https://avatars.githubusercontent.com/u/54203587?v=4" width="100;" alt="rituparna-ui"/>
-            <br />
-            <sub><b>Rituparna Warwatkar</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/prateek-sinha01">
-            <img src="https://avatars.githubusercontent.com/u/82904361?v=4" width="100;" alt="belikeamitesh"/>
-            <br />
-            <sub><b>Prateek Kumar Sinha</b></sub>
-        </a>
-    </td></tr>
-</table>-->
-<!-- readme: contributors -end -->
 
 ## Some Screenshots from the App
 <div align="center">
