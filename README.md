@@ -5,7 +5,7 @@
  <img width:"30px" height: "30xp" src="./logo.png" alt="logo">
  </div>.
 
-## Try it out
+<!--## Try it out-->
 
 <!--https://acadlink.netlify.app/-->
 
